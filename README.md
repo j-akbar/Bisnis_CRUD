@@ -17,6 +17,18 @@ This will install the dependencies inside `node_modules`
 
 Runs the app in postman.<br>
 Import collection `CRUD Bisnis BRI Life.postman_collection.json` to postman for testing.<br>
+
+### sample get all products
+![Alt text](screenshots/products_all.png?raw=true "All Product")
+### sample get product by id 
+![Alt text](screenshots/product_by_id.png?raw=true "Product by Id")
+### sample save product 
+![Alt text](screenshots/product_save.png?raw=true "Save Product")
+### sample update product  
+![Alt text](screenshots/product_update.png?raw=true "Update Product")
+### sample delete product  
+![Alt text](screenshots/product_delete.png?raw=true "Delete Product")
+
 Open [http://localhost:5000/api/v1/transactions](http://localhost:5000/api/v1/transactions) to view it in the browser.
 =======
 # CRUD-Bisnis-Mysql-Express-Swagger
